@@ -16,6 +16,15 @@ a {
   text-decoration: none !important;
 }
 
+.video-container {
+  border: 5px solid #f1f1f1; /* Cambia este color al que prefieras */
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff; /* Fondo blanco, puedes cambiarlo si deseas */
+  max-width: 100%; /* Asegúrate de que el contenedor no exceda el ancho del contenedor padre */
+}
+
 h1,
 h2,
 h3,
